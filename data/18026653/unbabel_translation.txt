@@ -1,0 +1,60 @@
+ABSTRACT OBJECTIVE: To present the findings of chest high-resolution computed tomography (HRCT) of pulmonary alveolar microlithiasis.
+ METHODS: Tomography scans of 10 adult patients (seven females and three males, averaging 38.7 years) were retrospectively analyzed.
+ The tests were studied independently by two radiologists, and the final decisions were taken by consensus.
+ Results: The most common findings were ground-glass opacities and subpleural calcifications, both present in 90% of the patients.
+ Other relevant findings were small parenchymal nodules, calcification along the interlobular septa, nodular fissures, subpleural nodules, subpleural cysts, dense consolidations and a mosaic attenuation pattern.
+ CONCLUSIONS: HRCT scans reveal aspects of pulmonary alveolar microlithiasis that are highly suggestive of the condition, eliminating, in most cases, the need for lung biopsies.
+ Key words: X-Ray Computed Tomography, X-rays; Lithiasis/lung; Lung Diseases.     Introduction Pulmonary alveolar microlithiasis (PAM) is a rare chronic evolution hereditary disease that affects young adults and generates special interest in radiological studies due to its  pathognomonic imaging pattern, which, in the opinion of many authors, precludes, in most cases, the need for lung biopsies.(1-5) More than half of the patients are asymptomatic at the time of diagnosis.(5) The disease remains silent for a long period, with subsequent occurrence of dyspnea, chest pain and dry cough, which may result in cyanosis, respiratory failure and cor pulmonale.
+(2, 4, 5) The scarcity of clinical symptoms contrasts with the extensive changes seen on chest X-rays.
+(1, 4) In most cases, the disease is detected during routine checkups or investigations on the  family history of an individual with alveolar microlithiasis.
+(5) High-resolution computed tomography
+(HRCT) has been helping to characterize the imaging of the disease even better and may be of great help in diagnosing PAM.
+(1-4, 6, 7) The objective of this study is to describe the changes identified in the CT scans of 10 PAM patients.
+   Methods This study retrospectively analyzed chest tomography scans of 10 PAM patients from seven different institutions located in four Brazilian states (Rio de Janeiro, São Paulo, Goiás and Paraná).
+ Seven of these patients were female and three were male.  Ages ranged from 22 to 59, averaging 38.7 years. The diagnosis was based on patterns observed in X-rays and CT scans, which are considered pathognomonic of the disease. 
+(1, 3-5) However, six patients have also undergone open lung biopsies, which provided histopathological confirmation.
+ CT scans of the chest were performed in various tomography scanners, with axial slices ranging from 1 to 2mm thick, with 10mm increments, during deep inspiration, from the apices to the lung bases.
+ The tests were conducted using a parenchymal window, with a width of 1000-1500 Hounsfield Units (HU) and a center between 650 and 750 HU.
+ Tests were also conducted using a mediastinal window, with a width of 350-400 HU and a center between 40 and 60 HU. HRCT scans were studied independently by two observers, and discordant results were settled by consensus.
+ The study included the evaluation of the lung parenchyma, to detect the presence of small parenchymal nodules, ground-glass opacities, mosaic pattern attenuation, calcification along the interlobular septa, subpleural linear calcifications, subpleural nodules, nodular fissures, dense consolidations, subpleural cysts and apical bullae.
+ The criteria for defining these findings are listed in the Fleischner Society Glossary of Terms.
+(8) The terminology follows the recommendations of the Terminology Consensuses of the Brazilian College of Radiology (9) and the Brazilian Tisiology Society.
+(10) Small parenchymal nodules were characterized as round focal opacities measuring less than 10 mm in diameter.
+ Ground-glass opacity was defined as a pulmonary attenuation increase, but without obscuring bronchial and vascular margins. 
+ Consolidations were defined as the presence of a homogeneous increase in pulmonary parenchymal attenuation, leading to the loss of individualization in vascular structures and the airway wall. 
+ They were classified as dense when they presented higher density levels than those of soft tissues, when assessed in mediastinal windows. 
+ A mosaic attenuation pattern was defined as the situation in which ground-glass opacity areas were observed with thickened interlobular septa in between.
+ Calcification along the interlobular septa was characterized when thin linear opacities, drawing the periphery of secondary pulmonary lobes, were visualized in mediastinal windows.
+ Subpleural linear calcifications were thus described in patients with calcified, juxtapleural,
+and continuous linear opacities, which were also visible in the mediastinal window.
+ Subpleural cysts were defined as round, hypodense structures measuring less than 10 mm in diameter, aligned next to the pleura. Subpleural nodules were defined as nodular opacities along the pleural surface.
+ Nodular fissures were defined as nodules that scattered along the fissure lines.
+ Apical bullae were defined as well-delimited, thin-walled airspaces larger than 10 mm, observed in the lung apexes.
+   Results The most common changes revealed in the chest CT scans of ten PAM patients were ground-glass opacities and subpleural linear calcifications, observed in nine patients (90%).
+ Small parenchymal nodules (Figure 1) were found in seven patients (70%).
+     Calcification along the interlobular septa was observed in five patients (50%). Of these, four patients also presented associated ground-glass attenuation, thus presenting the mosaic attenuation pattern (Figure 2).
+
+ Dense consolidations (Figure 3), subpleural nodules, nodular fissure and subpleural cysts (Figure 4) were observed in five cases (50%). Apical bullae were identified in only one patient (10%).
+         Tomographic alterations were predominant in the inferior and posterior portions of the lungs, as observed in nine patients (90%).
+ Apical dominance occurred in only one of the cases.
+ These findings are shown in Table 1.     Discussion PAM is a rare, chronic evolution disease with poorly defined etiology and pathogenesis; it is primarily characterized by the presence of numerous small calculi (called calciferites, calcospherites or microlites) within the airspaces.
+(1-3, 5) Studies with larger samples show no gender predilection.(5) In this study, seven of the ten patients were female. The age bracket varies considerably, from newborns to nonagenarian patients, averaging 35 years at the time of diagnosis.
+(4, 5, 11) In this study, ages ranged from 22 to 59, averaging 38.7 years. The disease presents a high incidence of familial occurrence (approximately one third of the cases), suggesting the existence of an autosomal recessive inheritance pattern.
+(1-3, 5) This sample included two cases of monozygotic twins. 
+ However, the families of the other patients were not adequately investigated in order to exclude other familial cases. HRCT findings in patients with alveolar microlithiasis vary considerably, and most studies refer to isolated case reports.
+ Ground-glass opacities are a common finding in the literature.(1, 3, 4, 6, 7, 11, 12) This was the major finding in this sample, occurring in 90% of the cases. Ground-glass attenuation is probably due to the presence of small calculi in the airspace. Subpleural linear calcifications were also found in 90% of the patients included in this study. This finding, although commonly seen in CT scans of PAM patients, is controversial in the literature.
+ Although some authors describe them as pleural calcifications (13, 14), no research has been found confirming the presence of pleural calcifications from a histopathological perspective.
+ Therefore, it seems that the best explanation is the accumulation of intra-alveolar calculi in the periphery of secondary pulmonary lobes, delimiting the pleural surface and producing the appearance of pseudo-pleural calcifications.(4, 11, 15-17) The calcification appearance along the interlobular septa was another common point between this work and the data reported in the literature.
+ This was observed in five patients, which represents 50% of the sample. The calcium appearance of the septa also occurs due to accumulation of calculi in the periphery of the secondary pulmonary lobe, since there is no histologic evidence of calcification in the interlobular septa nor of interstitial involvement in the early stages of the disease.
+(4,7,11) The mosaic attenuation pattern occurred in four patients, which represents 40% of our sample. In this study, this can also be observed in mediastinal window images, since there is calcification along the interlobular septa.
+ There are no reports about any other disease with similar tomographic manifestations; this finding is considered very specific and even pathognomonic of PAM on the HRCT scan.
+(7) Small nodules were identified in 70% of the patients. The small nodules on the HRCT scan correspond to the dense micronodules (<1 mm) on the chest
+X-rays; they are very thin, well-defined and diffusely scattered throughout the parenchyma, making the lungs homogeneously hypotransparent, which characterizes the pattern described by some authors as a 'storm sand,' considered to be typical of the disease.
+ When this pattern is identified in chest X-rays, lung biopsy is needed only in exceptional
+cases
+(1-4) It is often impossible to determine the calcium density of the nodules on the HRCT scan. 
+ This is probably due to their small dimensions. The presence of calcium is better characterized when they converge.
+ Converging small nodules can form parenchymal consolidation areas. Due to the presence of calcium, consolidations may have greater density than soft tissues.
+ These consolidations predominantly occur along the cardiac borders and in the lower posterior lung regions of the lungs, and they tend to be symmetrical.(1, 2, 4, 6, 7, 11, 12) Dense consolidations with interposed air bronchograms were found in 50% of the patients, especially in the lower posterior regions. There are hardily any references to this finding in the literature.(6) Therefore, PAM should be considered a differential diagnosis for dense consolidations, together with amiodarone pulmonary toxicity, metastatic pulmonary calcification, silicoproteinosis, talcosis and amyloidosis.(18) Another common finding in HRCT imaging studies is subpleural cysts.
+ The presence of these small thin-walled cysts, located in subpleural areas, may result in the formation of a peripheral radiolucent band between the calcified parenchyma and the ribs, which is described in chest X-rays as the 'black pleura' sign.(1, 3, 4, 7, 11) In this study, we observed the presence of subpleural cysts in 50% of the cases. Apical bullae were found in one patient. By way of conclusion, chest HRCT scans are useful tools for diagnosing PAM, since they can show typical patterns of the disease. The most common tomographic findings were diffuse ground-glass attenuation areas and subpleural linear calcifications, which were observed in 90% of the patients. Other changes found on HRCT scans were, in decreasing order of frequency, small parenchymal nodules, nodular fissures, subpleural nodules, calcifications along the interlobular septa, dense consolidations, and subpleural cysts. The calcification found along the interlobular septa, associated with ground-glass attenuation, presenting a mosaic attenuation pattern, observed in the mediastinal window, can be considered pathognomonic of PAM, since this aspect, present in 40% of the cases in our sample, has not yet been described in any other disease.
+   
