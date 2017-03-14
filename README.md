@@ -1,6 +1,6 @@
-# parallel_corpus_radiology_dataset
+# MRRAD (Multilingual Radiology Research Articles Dataset) 
 
-See description of this corpus ate [...].
+See description of this dataset at [...].
 
 BioPortal annotations are in [Standoff format](http://brat.nlplab.org/standoff.html).
 
